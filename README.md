@@ -1,71 +1,85 @@
-# ¡Hola, soy Bryan Camilo Giraldo Pérez! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=¡Hola,+soy+Bryan!+👋;Desarrollador+Frontend;Estudiante+de+ADS" alt="Título animado" />
+</p>
 
-### Desarrollador Frontend apasionado | Estudiante de Tecnología en ADS
-
-[![GitHub Followers](https://img.shields.io/github/followers/camilo-ccp?style=social)](https://github.com/camilo-ccp)
-[![GitHub Stars](https://img.shields.io/github/stars/camilo-ccp?style=social)](https://github.com/camilo-ccp)
-
-Soy un desarrollador junior apasionado por la programación, actualmente estudiando un tecnólogo en Análisis y Desarrollo de Software. Cuento con experiencia en diversas tecnologías y mi punto fuerte es el desarrollo web, especialmente el frontend.
-
-Me encanta innovar, aprender constantemente y enfrentar nuevos desafíos que me permitan crecer profesionalmente. Siempre estoy buscando oportunidades para aplicar mis conocimientos y adquirir nuevas habilidades.
+<p align="center">
+  Apasionado por la innovación y el aprendizaje continuo en el mundo del desarrollo web
+</p>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+</p>
 
-### Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Desarrollo Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-### Herramientas & DevOps
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+### Herramientas de Desarrollo
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon" />
+</p>
 
 ### En Aprendizaje
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación Académica
 
-- **Tecnólogo en Análisis y Desarrollo de Software** (En curso)
-  - Formación en desarrollo de software, bases de datos, metodologías ágiles y gestión de proyectos.
+### Tecnólogo en Análisis y Desarrollo de Software
+**En curso** - Formación en desarrollo de software, bases de datos, metodologías ágiles y gestión de proyectos.
 
-- **Técnico en Sistemas**
-  - Conocimientos en mantenimiento de hardware, redes, soporte técnico y fundamentos de programación.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=camilo-ccp&show_icons=true&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-ccp&layout=compact&theme=dark)
+### Técnico en Sistemas
+Conocimientos en mantenimiento de hardware, redes, soporte técnico y fundamentos de programación.
 
 ---
 
-## 📫 Contáctame
+## 💡 Sobre Mí
 
-¡Siéntete libre de contactarme para colaborar en proyectos o para cualquier oportunidad de desarrollo!
+Soy un desarrollador junior con gran pasión por la programación, especializándome en el desarrollo frontend. Disfruto creando experiencias de usuario intuitivas y atractivas, combinando mis habilidades técnicas con mi creatividad.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilo-ccp)
+Mi objetivo es seguir aprendiendo tecnologías emergentes y contribuir a proyectos innovadores que desafíen mis habilidades y me permitan crecer profesionalmente.
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=camilo-ccp&color=blueviolet)
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:tu.email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/camilo-ccp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>¡No dudes en contactarme para colaborar en proyectos interesantes!</i>
+</p>
