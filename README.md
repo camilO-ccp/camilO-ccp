@@ -1,13 +1,13 @@
 <p align="center">
-  <h1 align="center">¡Hola, soy Bryan! 👋</h1>
-  <p align="center">Desarrollador Frontend | Estudiante de ADS</p>
+  <h1 align="center">¡Hola, soy Camilo! 👋</h1>
+  <p align="center">Desarrollador Junior | Estudiante de Analisis y Desarrollo de Software</p>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-Soy un desarrollador junior con gran pasión por la programación, especializándome en el desarrollo frontend. Disfruto creando experiencias de usuario intuitivas y atractivas, combinando mis habilidades técnicas con mi creatividad.
+Soy un desarrollador junior con gran pasión por la programación, Me destaco en el desarrollo frontend y Backend. Disfruto creando experiencias de usuario intuitivas y atractivas, combinando mis habilidades técnicas con mi creatividad.
 
 Mi objetivo es seguir aprendiendo tecnologías emergentes y contribuir a proyectos innovadores que desafíen mis habilidades y me permitan crecer profesionalmente.
 
@@ -66,7 +66,7 @@ Conocimientos en mantenimiento de hardware, redes, soporte técnico y fundamento
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:tu.email@ejemplo.com">
+  <a href="bryan.giraldo.0906@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/tu-perfil">
@@ -78,5 +78,5 @@ Conocimientos en mantenimiento de hardware, redes, soporte técnico y fundamento
 </p>
 
 <p align="center">
-  <i>¡No dudes en contactarme para colaborar en proyectos interesantes!</i>
+  <i>¡No dudes en contactarme!</i>
 </p>
