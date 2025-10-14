@@ -4,7 +4,7 @@
 # 👋 ¡Hola, soy Camilo!
 ### 💻 Desarrollador Junior | Estudiante de Análisis y Desarrollo de Software  
 
-🚀 Apasionado por la programación, la tecnología y la creación de experiencias digitales atractivas.  
+Apasionado por la programación, la tecnología y la creación de experiencias digitales atractivas.  
 Siempre busco aprender, mejorar y construir proyectos que inspiren y aporten valor.  
 
 ---
@@ -13,10 +13,10 @@ Siempre busco aprender, mejorar y construir proyectos que inspiren y aporten val
 
 ## 👨‍💻 Sobre Mí
 
-Soy un desarrollador **frontend y backend** con gran entusiasmo por crear soluciones modernas, intuitivas y eficientes.  
+Soy un desarrollador junior de**frontend y backend** con gran entusiasmo por crear soluciones modernas, intuitivas y eficientes.  
 Disfruto combinar mis conocimientos técnicos con la creatividad para construir interfaces funcionales y visualmente atractivas.  
 
-🎯 **Objetivo:** seguir aprendiendo tecnologías emergentes y participar en proyectos que impulsen mi crecimiento profesional.  
+**Objetivo:** seguir aprendiendo tecnologías emergentes y participar en proyectos que impulsen mi crecimiento profesional.  
 
 ---
 
@@ -37,20 +37,17 @@ Disfruto combinar mis conocimientos técnicos con la creatividad para construir 
 
 Aquí algunos proyectos que reflejan mi enfoque en el desarrollo frontend y backend:
 
-- 🎮 **FullStack Game Manager** – CRUD completo con Node.js, Express y MongoDB.  
-- 🧾 **Sistema de Login y Registro** – Aplicación con autenticación, EJS y diseño minimalista.  
-- 📱 **App de Temporizador** – Aplicación móvil desarrollada en Flutter con enfoque en UI/UX.  
-
-*(Próximamente añadiré más proyectos)*  
+- 🎮 **Shirly Rose** – App web sobre gestion de citas con Node.js, Express y MongoDB.  
+  
 
 ---
 
 ## 🎓 Formación Académica
 
-🎓 **Tecnólogo en Análisis y Desarrollo de Software** *(En curso)*  
+**Tecnólogo en Análisis y Desarrollo de Software**  
 > Formación en desarrollo de software, bases de datos, metodologías ágiles y gestión de proyectos.
 
-💡 **Técnico en Sistemas**  
+**Técnico en Sistemas**  
 > Conocimientos en mantenimiento de hardware, redes, soporte técnico y fundamentos de programación.
 
 ---
@@ -63,5 +60,5 @@ Aquí algunos proyectos que reflejan mi enfoque en el desarrollo frontend y back
 </p>
 
 <div align="center">
-  <i>✨ Gracias por visitar mi perfil. ¡Siempre abierto a colaborar y aprender juntos! ✨</i>
+  <i> Gracias por visitar mi perfil. ¡Siempre disponible a colaborar y aprender! </i>
 </div>
