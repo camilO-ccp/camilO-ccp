@@ -37,7 +37,7 @@ Disfruto combinar mis conocimientos técnicos con la creatividad para construir 
 
 Aquí algunos proyectos que reflejan mi enfoque en el desarrollo frontend y backend:
 
-- [**ShirlyRose**](https://github.com/MiggFk/ShirlyRoseProyect) **Shirly Rose** – Proyecto académico SENA para automatizar la gestión de citas, clientes, productos y facturas de un local de peluquería y estética..  
+- [**ShirlyRose**](https://github.com/MiggFk/ShirlyRoseProyect) 🌸 **Shirly Rose** – Proyecto académico SENA para automatizar la gestión de citas, clientes, productos y facturas de un salon de belleza spa y peluqueria..  
   
 
 ---
