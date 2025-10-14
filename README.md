@@ -11,7 +11,7 @@ Siempre busco aprender, mejorar y construir proyectos que inspiren y aporten val
 
 </div>
 
-## 👨‍💻 Sobre Mí
+## Sobre Mí
 
 Soy un desarrollador junior de**frontend y backend** con gran entusiasmo por crear soluciones modernas, intuitivas y eficientes.  
 Disfruto combinar mis conocimientos técnicos con la creatividad para construir interfaces funcionales y visualmente atractivas.  
