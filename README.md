@@ -20,43 +20,16 @@ Disfruto combinar mis conocimientos técnicos con la creatividad para construir 
 
 ---
 
-## 🧩 Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
-### 🧠 **Lenguajes de Programación**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-</p>
+<div align="center">
 
-### 🎨 **Desarrollo Frontend**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
+| **Lenguajes & Frameworks** | **Frontend** | **Backend** | **Bases de Datos** | **Herramientas & Metodologías** |
+|:----------------------------|:-------------|:-------------|:------------------|:--------------------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) <br> ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) <br> ![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?style=flat&logo=reactrouter&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![API REST](https://img.shields.io/badge/API_REST-005571?style=flat&logo=postman&logoColor=white) <br> ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white) <br> ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6B81?style=flat&logo=sweetalert2&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) <br> ![Scrum](https://img.shields.io/badge/Scrum-0A66C2?style=flat&logo=azuredevops&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Formik](https://img.shields.io/badge/Formik-000000?style=flat&logo=formik&logoColor=white) <br> ![Yup](https://img.shields.io/badge/Yup-000000?style=flat&logo=yup&logoColor=white) |  |  |  |  |
 
-### 🗄️ **Bases de Datos**
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
-</p>
-
-### ⚙️ **Herramientas de Desarrollo**
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
-</p>
-
-### 📚 **En Aprendizaje**
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-</p>
+</div>
 
 ---
 
@@ -82,21 +55,11 @@ Aquí algunos proyectos que reflejan mi enfoque en el desarrollo frontend y back
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📫 Contáctame
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilO-ccp&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilO-ccp&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:bryan.giraldo.0906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/camilO-ccp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:bryan.giraldo.0906@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://www.linkedin.com/in/camilo-giraldo-84074b389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
